@@ -1,0 +1,25 @@
+# Simulation output (the archived manuscript results are shipped as results.zip)
+results/
+results_dev/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Numba / matplotlib caches
+__numba_cache__/
+.matplotlib/
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
